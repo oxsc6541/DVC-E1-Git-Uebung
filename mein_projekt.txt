@@ -12,3 +12,4 @@ add (Erledigt)
 commit (Erledigt)
 status (Erledigt)
 diff - gleich dran
+Die Zeile wurde im GitHub selbst geschrieben
