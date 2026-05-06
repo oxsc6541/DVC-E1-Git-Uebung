@@ -13,3 +13,5 @@ commit (Erledigt)
 status (Erledigt)
 diff - gleich dran
 Die Zeile wurde im GitHub selbst geschrieben
+
+Dies ist eine Änderung im Branch Feature-B.
