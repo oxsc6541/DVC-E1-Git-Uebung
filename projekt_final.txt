@@ -13,5 +13,10 @@ commit (Erledigt)
 status (Erledigt)
 diff - gleich dran
 Die Zeile wurde im GitHub selbst geschrieben
+<<<<<<< HEAD
 ________________________________________________________
 Dies ist eine Änderung im Branch Feature-A
+
+
+Dies ist eine Änderung im Branch Feature-B.
+
